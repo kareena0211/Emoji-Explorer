@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_640.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 100px;
+}
+
+input {
+  width: 30%;
+  padding: 1rem;
+  border: none;
+  border-radius: 5px;
+}
+span {
+  /* border: 2px solid white; */
+  padding: 1rem;
+  font-size: 2rem;
+}
